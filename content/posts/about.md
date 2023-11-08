@@ -5,7 +5,13 @@ draft = false
 +++
 ## Introduction
 
+![portrait](/IMG_20230910_120714.jpg)
+
 This is my personal website. You can find personal information, but also information about my projects here.
+
+Currently I am occupied as software engineer. I studied law to the half.
+
+You can contact me here: erhard3mem@gmail.com
 
 ### Python: DJone 
 
