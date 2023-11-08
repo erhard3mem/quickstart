@@ -11,12 +11,10 @@ This is my personal website. You can find personal information, but also informa
 
 I have been building a webapp which basically replaces the work of a DJ by sorting different artist's tracks by similarity. 
 
-[Github repository](https://github.com/erhard3mem/djone)
+- [Github repository](https://github.com/erhard3mem/djone)
 
 ### Python: digitalgovblockchain
 
-This app creates a plattform for polling securely. 
+This app creates a platform for polling securely. 
 
-[Github repository](https://github.com/erhard3mem/digitalgovblockchain)
-
-
+- [Github repository](https://github.com/erhard3mem/digitalgovblockchain)
