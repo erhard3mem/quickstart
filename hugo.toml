@@ -3,6 +3,7 @@ title        = "Erhard Einsiedler's blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+googleAnalytics = "G-WPS80R3KCK"
 
 [params]
   dateform        = "Jan 2, 2006"
