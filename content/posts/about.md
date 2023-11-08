@@ -5,7 +5,7 @@ draft = false
 +++
 ## Introduction
 
-![portrait](/IMG_20230910_120714.jpg)
+![portrait](/quickstart/IMG_20230910_120714.jpg)
 
 This is my personal website. You can find personal information, but also information about my projects here.
 
