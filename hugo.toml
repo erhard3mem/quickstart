@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://erhard3mem.github.io/quickstart/"
 title        = "Erhard Einsiedler's blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
