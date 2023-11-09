@@ -44,7 +44,7 @@ googleAnalytics = "G-WPS80R3KCK"
     subtitle  = ""
 
     [languages.en.params.logo]
-      logoText = "Welcome to Erhard Einsiedler's blog"
+      logoText = "Welcome to Erhard Einsiedler's"
       logoHomeLink = "/quickstart/"
     # or
     #
