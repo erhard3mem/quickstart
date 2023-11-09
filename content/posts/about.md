@@ -16,3 +16,5 @@ You also can find comments on various topics I enjoy dealing with.
 Currently I am occupied as software engineer. I studied law to the half.
 
 You can contact me here: erhard3mem@gmail.com
+
+Here you can find an example playlist, music I listen to: [Linktree](https://linktr.ee/erdschi)
